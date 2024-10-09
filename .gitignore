@@ -1,0 +1,3 @@
+# UNCOMMENT this out once cloned/downloaded
+node_modules
+.env
